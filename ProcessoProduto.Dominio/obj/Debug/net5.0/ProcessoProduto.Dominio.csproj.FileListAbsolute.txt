@@ -1,0 +1,12 @@
+C:\ProcessoProduto\ProcessoProduto\ProcessoProduto.Dominio\bin\Debug\net5.0\ProcessoProduto.Dominio.deps.json
+C:\ProcessoProduto\ProcessoProduto\ProcessoProduto.Dominio\bin\Debug\net5.0\ProcessoProduto.Dominio.dll
+C:\ProcessoProduto\ProcessoProduto\ProcessoProduto.Dominio\bin\Debug\net5.0\ProcessoProduto.Dominio.pdb
+C:\ProcessoProduto\ProcessoProduto\ProcessoProduto.Dominio\obj\Debug\net5.0\ProcessoProduto.Dominio.csproj.AssemblyReference.cache
+C:\ProcessoProduto\ProcessoProduto\ProcessoProduto.Dominio\obj\Debug\net5.0\ProcessoProduto.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProcessoProduto\ProcessoProduto\ProcessoProduto.Dominio\obj\Debug\net5.0\ProcessoProduto.Dominio.AssemblyInfoInputs.cache
+C:\ProcessoProduto\ProcessoProduto\ProcessoProduto.Dominio\obj\Debug\net5.0\ProcessoProduto.Dominio.AssemblyInfo.cs
+C:\ProcessoProduto\ProcessoProduto\ProcessoProduto.Dominio\obj\Debug\net5.0\ProcessoProduto.Dominio.csproj.CoreCompileInputs.cache
+C:\ProcessoProduto\ProcessoProduto\ProcessoProduto.Dominio\obj\Debug\net5.0\ProcessoProduto.Dominio.dll
+C:\ProcessoProduto\ProcessoProduto\ProcessoProduto.Dominio\obj\Debug\net5.0\refint\ProcessoProduto.Dominio.dll
+C:\ProcessoProduto\ProcessoProduto\ProcessoProduto.Dominio\obj\Debug\net5.0\ProcessoProduto.Dominio.pdb
+C:\ProcessoProduto\ProcessoProduto\ProcessoProduto.Dominio\obj\Debug\net5.0\ref\ProcessoProduto.Dominio.dll

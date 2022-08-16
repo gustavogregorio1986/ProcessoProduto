@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProcessoProduto.Data\ProcessoProduto.Data.csproj" />
+    <ProjectReference Include="..\ProcessoProduto.Dominio\ProcessoProduto.Dominio.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\ProcessoProduto\ProcessoProduto\ProcessoProdutoi.Negocio\bin\Debug\net5.0\ProcessoProdutoi.Negocio.deps.json
+C:\ProcessoProduto\ProcessoProduto\ProcessoProdutoi.Negocio\bin\Debug\net5.0\ProcessoProdutoi.Negocio.dll
+C:\ProcessoProduto\ProcessoProduto\ProcessoProdutoi.Negocio\bin\Debug\net5.0\ProcessoProdutoi.Negocio.pdb
+C:\ProcessoProduto\ProcessoProduto\ProcessoProdutoi.Negocio\bin\Debug\net5.0\ProcessoProduto.Data.dll
+C:\ProcessoProduto\ProcessoProduto\ProcessoProdutoi.Negocio\bin\Debug\net5.0\ProcessoProduto.Dominio.dll
+C:\ProcessoProduto\ProcessoProduto\ProcessoProdutoi.Negocio\bin\Debug\net5.0\ProcessoProduto.Data.pdb
+C:\ProcessoProduto\ProcessoProduto\ProcessoProdutoi.Negocio\bin\Debug\net5.0\ProcessoProduto.Dominio.pdb
+C:\ProcessoProduto\ProcessoProduto\ProcessoProdutoi.Negocio\obj\Debug\net5.0\ProcessoProdutoi.Negocio.csproj.AssemblyReference.cache
+C:\ProcessoProduto\ProcessoProduto\ProcessoProdutoi.Negocio\obj\Debug\net5.0\ProcessoProdutoi.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProcessoProduto\ProcessoProduto\ProcessoProdutoi.Negocio\obj\Debug\net5.0\ProcessoProdutoi.Negocio.AssemblyInfoInputs.cache
+C:\ProcessoProduto\ProcessoProduto\ProcessoProdutoi.Negocio\obj\Debug\net5.0\ProcessoProdutoi.Negocio.AssemblyInfo.cs
+C:\ProcessoProduto\ProcessoProduto\ProcessoProdutoi.Negocio\obj\Debug\net5.0\ProcessoProdutoi.Negocio.csproj.CoreCompileInputs.cache
+C:\ProcessoProduto\ProcessoProduto\ProcessoProdutoi.Negocio\obj\Debug\net5.0\ProcessoProdutoi.Negocio.csproj.CopyComplete
+C:\ProcessoProduto\ProcessoProduto\ProcessoProdutoi.Negocio\obj\Debug\net5.0\ProcessoProdutoi.Negocio.dll
+C:\ProcessoProduto\ProcessoProduto\ProcessoProdutoi.Negocio\obj\Debug\net5.0\refint\ProcessoProdutoi.Negocio.dll
+C:\ProcessoProduto\ProcessoProduto\ProcessoProdutoi.Negocio\obj\Debug\net5.0\ProcessoProdutoi.Negocio.pdb
+C:\ProcessoProduto\ProcessoProduto\ProcessoProdutoi.Negocio\obj\Debug\net5.0\ref\ProcessoProdutoi.Negocio.dll
